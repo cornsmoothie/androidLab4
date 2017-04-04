@@ -1,0 +1,38 @@
+
+<resources>
+   <string name="app_name">PaletteCanvas(Lab4)</string>
+
+   <string name = "white">WHITE</string>
+   <string name = "red">RED</string>
+   <string name = "blue">BLUE</string>
+   <string name = "green">GREEN</string>
+   <string name = "gray">GRAY</string>
+   <string name = "purple">PURPLE</string>
+
+    <string-array name="colors">
+        <item>white</item>
+        <item>red</item>
+        <item>blue</item>
+        <item>green</item>
+        <item>gray</item>
+        <item>purple</item>
+    </string-array>
+
+   <string-array name="spanishColors" >
+      <item>BLANCO</item>
+      <item>ROJO</item>
+      <item>AZUL</item>
+      <item>VERDE</item>
+      <item>GRIS</item>
+      <item>PURPURA</item>
+   </string-array>
+</resources>
+    <!--
+    <item>@string/white</item>
+    <item>@string/red</item>
+    <item>@string/blue</item>
+    <item>@string/green</item>
+    <item>@string/gray</item>
+    <item>@string/purple</item>
+    -->
+
